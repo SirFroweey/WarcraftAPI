@@ -104,3 +104,4 @@ if __name__ == "__main__":
 	sample_realm = client.find_realm("Tichondrius")
 	print client.servers
 	print sample_realm
+	print "complete"
